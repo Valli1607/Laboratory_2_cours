@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "laboratory_4/1.0.0": {
+        "runtime": {
+          "laboratory_4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laboratory_4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

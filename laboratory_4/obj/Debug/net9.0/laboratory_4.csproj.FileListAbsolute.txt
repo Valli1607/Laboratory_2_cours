@@ -1,0 +1,14 @@
+C:\Users\tanta\OneDrive\Desktop\visual studio\3 семестр\laboratory_4\bin\Debug\net9.0\laboratory_4.exe
+C:\Users\tanta\OneDrive\Desktop\visual studio\3 семестр\laboratory_4\bin\Debug\net9.0\laboratory_4.deps.json
+C:\Users\tanta\OneDrive\Desktop\visual studio\3 семестр\laboratory_4\bin\Debug\net9.0\laboratory_4.runtimeconfig.json
+C:\Users\tanta\OneDrive\Desktop\visual studio\3 семестр\laboratory_4\bin\Debug\net9.0\laboratory_4.dll
+C:\Users\tanta\OneDrive\Desktop\visual studio\3 семестр\laboratory_4\bin\Debug\net9.0\laboratory_4.pdb
+C:\Users\tanta\OneDrive\Desktop\visual studio\3 семестр\laboratory_4\obj\Debug\net9.0\laboratory_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanta\OneDrive\Desktop\visual studio\3 семестр\laboratory_4\obj\Debug\net9.0\laboratory_4.AssemblyInfoInputs.cache
+C:\Users\tanta\OneDrive\Desktop\visual studio\3 семестр\laboratory_4\obj\Debug\net9.0\laboratory_4.AssemblyInfo.cs
+C:\Users\tanta\OneDrive\Desktop\visual studio\3 семестр\laboratory_4\obj\Debug\net9.0\laboratory_4.csproj.CoreCompileInputs.cache
+C:\Users\tanta\OneDrive\Desktop\visual studio\3 семестр\laboratory_4\obj\Debug\net9.0\laboratory_4.dll
+C:\Users\tanta\OneDrive\Desktop\visual studio\3 семестр\laboratory_4\obj\Debug\net9.0\refint\laboratory_4.dll
+C:\Users\tanta\OneDrive\Desktop\visual studio\3 семестр\laboratory_4\obj\Debug\net9.0\laboratory_4.pdb
+C:\Users\tanta\OneDrive\Desktop\visual studio\3 семестр\laboratory_4\obj\Debug\net9.0\laboratory_4.genruntimeconfig.cache
+C:\Users\tanta\OneDrive\Desktop\visual studio\3 семестр\laboratory_4\obj\Debug\net9.0\ref\laboratory_4.dll
