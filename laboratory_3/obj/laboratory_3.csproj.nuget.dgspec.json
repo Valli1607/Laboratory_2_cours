@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tanta\\OneDrive\\Desktop\\visual studio\\3 семестр\\laboratory_3\\laboratory_3.csproj": {}
+    "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_3\\laboratory_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tanta\\OneDrive\\Desktop\\visual studio\\3 семестр\\laboratory_3\\laboratory_3.csproj": {
+    "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_3\\laboratory_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tanta\\OneDrive\\Desktop\\visual studio\\3 семестр\\laboratory_3\\laboratory_3.csproj",
+        "projectUniqueName": "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_3\\laboratory_3.csproj",
         "projectName": "laboratory_3",
-        "projectPath": "C:\\Users\\tanta\\OneDrive\\Desktop\\visual studio\\3 семестр\\laboratory_3\\laboratory_3.csproj",
+        "projectPath": "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_3\\laboratory_3.csproj",
         "packagesPath": "C:\\Users\\tanta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tanta\\OneDrive\\Desktop\\visual studio\\3 семестр\\laboratory_3\\obj\\",
+        "outputPath": "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tanta\\OneDrive\\Desktop\\visual studio\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratory_2\\",
+  "WorkspaceRootPath": "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9584BFBC-71C5-40E9-8A76-D1E2BF61357F}|laboratory_2.csproj|c:\\users\\tanta\\onedrive\\desktop\\visual studio\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratory_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9584BFBC-71C5-40E9-8A76-D1E2BF61357F}|laboratory_2.csproj|c:\\users\\tanta\\onedrive\\desktop\\gitt\\git\\laboratory_2_cours\\laboratory_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9584BFBC-71C5-40E9-8A76-D1E2BF61357F}|laboratory_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 692,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tanta\\OneDrive\\Desktop\\visual studio\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratory_2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\tanta\\OneDrive\\Desktop\\visual studio\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\laboratory_2\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T13:07:31.614Z",
               "EditorCaption": ""
@@ -40,6 +40,16 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
