@@ -16,9 +16,10 @@ class Program
             double termN = x;// первый член ряда
             for (int j = 0; j <= n; j++)
             {
-                termN = x; // нулевой член
-                termN *= -x * x / ((2 * j) * (2 * j + 1)); // Рекуррентная формула
-                sumN += termN;// накапливаем сумму
+                if (j == 0)
+                    termN = x; // первый член
+                else
+                    termN *= -x * x / ((2 * j) * (2 * j + 1));
             }
             double sumE = 0;// сумма ряда с точностью e
             double termE = x;// первый член ряда

@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{70FD0141-81F6-401C-9C2E-05CA3F666396}|laboratory_3.csproj|c:\\users\\tanta\\onedrive\\desktop\\gitt\\git\\laboratory_2_cours\\laboratory_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70FD0141-81F6-401C-9C2E-05CA3F666396}|laboratory_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FD0141-81F6-401C-9C2E-05CA3F666396}|laboratory_3.csproj|c:\\users\\tanta\\onedrive\\desktop\\gitt\\git\\laboratory_2_cours\\laboratory_3\\workarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FD0141-81F6-401C-9C2E-05CA3F666396}|laboratory_3.csproj|solutionrelative:workarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FD0141-81F6-401C-9C2E-05CA3F666396}|laboratory_3.csproj|c:\\users\\tanta\\onedrive\\desktop\\gitt\\git\\laboratory_2_cours\\laboratory_3\\workstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FD0141-81F6-401C-9C2E-05CA3F666396}|laboratory_3.csproj|solutionrelative:workstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FD0141-81F6-401C-9C2E-05CA3F666396}|laboratory_3.csproj|c:\\users\\tanta\\onedrive\\desktop\\gitt\\git\\laboratory_2_cours\\laboratory_3\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FD0141-81F6-401C-9C2E-05CA3F666396}|laboratory_3.csproj|solutionrelative:dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,8 +25,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 630,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 762,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,6 +37,46 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkString.cs",
+              "DocumentMoniker": "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_3\\WorkString.cs",
+              "RelativeDocumentMoniker": "WorkString.cs",
+              "ToolTip": "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_3\\WorkString.cs",
+              "RelativeToolTip": "WorkString.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAIwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:45:34.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dialog.cs",
+              "DocumentMoniker": "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_3\\Dialog.cs",
+              "RelativeDocumentMoniker": "Dialog.cs",
+              "ToolTip": "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_3\\Dialog.cs",
+              "RelativeToolTip": "Dialog.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:38:54.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkArray.cs",
+              "DocumentMoniker": "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_3\\WorkArray.cs",
+              "RelativeDocumentMoniker": "WorkArray.cs",
+              "ToolTip": "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_3\\WorkArray.cs",
+              "RelativeToolTip": "WorkArray.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAUwO4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:38:31.382Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
@@ -32,19 +84,15 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\tanta\\OneDrive\\Desktop\\Gitt\\Git\\Laboratory_2_cours\\laboratory_3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAGkBAAAAAAAAAAAqwBgBAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-09T08:47:44.126Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },
         {
-          "DockedWidth": 325,
+          "DockedWidth": 193,
           "SelectedChildIndex": -1,
           "Children": [
             {
