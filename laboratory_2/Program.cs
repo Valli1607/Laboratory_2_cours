@@ -14,12 +14,9 @@ class Program
             double exactAns = Math.Sin(x);// точное значение
             double sumN = 0;// сумма ряда с фиксированным n
             double termN = x;// первый член ряда
-            for (int j = 0; j <= n; j++)
+            for (int j = 1; j <= n; j++)
             {
-                if (j == 0)
-                    termN = x; // первый член
-                else
-                    termN *= -x * x / ((2 * j) * (2 * j + 1));
+                termN *= -x * x / ((2 * j) * (2 * j + 1));
             }
             double sumE = 0;// сумма ряда с точностью e
             double termE = x;// первый член ряда
